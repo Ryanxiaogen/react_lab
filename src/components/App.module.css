@@ -1,0 +1,14 @@
+.container{
+  width:100%;
+  overflow: auto;
+}
+
+.content{
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+a, a:visited{
+  text-decoration: none;
+  color: black;
+}

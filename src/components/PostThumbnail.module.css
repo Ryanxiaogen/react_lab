@@ -1,0 +1,11 @@
+.square {
+}
+
+.content {
+    width: 100%;
+}
+
+.image {
+    object-fit: cover;
+    width: 100%;
+}
